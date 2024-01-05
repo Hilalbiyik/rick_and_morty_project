@@ -1,4 +1,22 @@
-# my_api_task
+
+- **ScreenShoot**:
+
+<table>
+  <tr>
+    <td>ScreenShot1</td>
+     <td>ScreenShot2</td>
+    <td>ScreenShot2</td>
+     
+  <tr>
+    <td><img src="https://github.com/Hilalbiyik/HRMobileApp/assets/77548014/9d2c764a-9e7a-4bbc-8d2f-196bd2b79bb7.png" width="300" ></td>
+    <td><img src=" https://github.com/Hilalbiyik/HRMobileApp/assets/77548014/94f924d8-a0e1-4d12-8736-976d71fde346.png" width="300" ></td>
+    <td><img src="https://github.com/Hilalbiyik/HRMobileApp/assets/77548014/7366429c-967a-4607-9b82-9e4f70f5acd2.png" width="300" ></td>
+
+
+   
+ </table>
+<br>
+
 
 A new Flutter project.
 
